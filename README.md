@@ -1,8 +1,8 @@
 #VULTURE
 
-# FormEase - AI-Driven Form Assistance
+# VULTURE - AI-Driven Form Assistance
 
-Welcome to the FormEase GitHub repository! FormEase is an AI-powered platform designed to assist users in completing complex forms effortlessly. This repository contains the source code, development history, and supporting materials for the FormEase platform.
+Welcome to the VULTURE GitHub repository! VULTURE is an AI-powered platform designed to assist users in completing complex forms effortlessly. This repository contains the source code, development history, and supporting materials for the FormEase platform.
 
 ## Repository Structure
 
@@ -15,7 +15,7 @@ Welcome to the FormEase GitHub repository! FormEase is an AI-powered platform de
 
 The purpose of this repository is to provide a collaborative space for the development and improvement of the FormEase platform. By making the repository publicly accessible, we aim to foster community engagement, allowing developers, contributors, and users to explore the codebase, report issues, and suggest enhancements.
 
-## How AI Models Power FormEase
+## How AI Models Power VULTURE
 
 FormEase leverages multiple AI models to create an accessible and efficient form-filling experience. Key features include:
 
