@@ -13,7 +13,7 @@ Welcome to the VULTURE GitHub repository! VULTURE is an AI-powered platform desi
 
 ## Purpose
 
-The purpose of this repository is to provide a collaborative space for the development and improvement of the FormEase platform. By making the repository publicly accessible, we aim to foster community engagement, allowing developers, contributors, and users to explore the codebase, report issues, and suggest enhancements.
+The purpose of this repository is to provide a collaborative space for the development and improvement of the VULTURE platform. By making the repository publicly accessible, we aim to foster community engagement, allowing developers, contributors, and users to explore the codebase, report issues, and suggest enhancements.
 
 ## How AI Models Power VULTURE
 
